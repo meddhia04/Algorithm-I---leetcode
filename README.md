@@ -1,2 +1,2 @@
 # Algorithm-I-leetcode
-Algorithm I /study plan/ leetcode
+Algorithm I /study plan/ solutions/leetcode
